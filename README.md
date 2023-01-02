@@ -2,8 +2,7 @@
 - 👀 I’m interested in cloud technologies, apps built using Angular, Spring, Vaadin and generally all Java talk. I also love to play with my home server. Currently digging into development with Electron 
 - 🌱 I’m currently studying master's degree at Slovak university of technology in Bratislava, Faculty of Informatics and Information Technologies. 
 
-P.S.
-My fancy Profile picture is an art created using DALL-E
+_P.S. My fancy Profile picture 📸 is an art created using DALL-E_
 
 <!---
 TheJakey/TheJakey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
