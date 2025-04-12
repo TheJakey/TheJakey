@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheJakey
-- 👀 I’m interested in cloud technologies, apps built using Angular, Spring, Vaadin and generally all Java talk. I also love to play with my home server. Currently digging into development with Electron 
-- 🌱 I’m currently studying master's degree at Slovak university of technology in Bratislava, Faculty of Informatics and Information Technologies. 
+- 👀 I’m interested in cloud technologies, apps built using Angular, Spring and generally all tech talk. I also love to play with my home server. Currently digging more into Angular. 
+- 🌱 I’m currently working as an external consultant and freelanceing one project.
 
 _P.S. My fancy Profile picture 📸 is an art created using DALL-E_
 
